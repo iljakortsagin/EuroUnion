@@ -1,0 +1,74 @@
+body {
+ background-color: Chocolate;
+ text-align: center;    
+}
+
+h1 {
+	font-family: Tahoma;
+	font-weight: 900;
+	font-size: 40px;
+	color: #660000;
+	text-decoration: underline;
+	text-transform: uppercase;
+
+}
+
+h2 {
+	background-color: SandyBrown;
+    border-style: inset;
+    border-color: Gold;
+    text-transform: uppercase;
+    font-family: Helvetica, sans-serif;
+	font-size: 30px;
+	font-weight: 600;
+	color: #45161c;
+	padding: 20px;
+}
+
+h3 {
+	background-color: SandyBrown;
+    border-style: inset;
+    border-color: Gold;
+    margin-right: 600px;
+    margin-left: 600px;
+    font-family: Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: 600;
+	color: #45161c;
+	padding: 20px;
+}
+
+p {
+    background-color: SandyBrown;
+    text-align: justify;
+    font-weight: bold;
+	font-family: Arial;
+	font-size: 14px;
+	color: #45161c;
+	margin-right: 300px;
+	margin-left: 300px;
+	padding: 15px;
+}
+
+a {
+    background-color: Chocolate;
+	font-size: 20px;
+	font-weight: 900;
+	color: #45161c;
+	padding: 10px;
+}
+
+a:hover {
+    background-color: Chocolate;
+	font-size: 20px;
+	font-weight: 900;
+	color: #CC0000;
+	padding: 10px;
+}
+
+h4{
+   	text-align: center;
+	font-family: Arial;
+	font-size: 14px;
+	color: #45161c;
+}

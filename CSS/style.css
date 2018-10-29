@@ -1,0 +1,55 @@
+body {
+ background-color: Chocolate;
+ text-align: center;    
+}
+
+h1 {
+	font-family: Tahoma;
+	font-weight: 900;
+	color: #660000;
+	text-decoration: underline;
+	text-transform: uppercase;
+
+}
+
+table {
+    background-color:  Chokolate;
+	border: 5px outset Peru;
+	margin: 0 auto;
+	width: 50%;	
+}
+
+th {
+    background-color: Chocolate;
+	border: 2px inset Gold;
+	text-transform: uppercase;
+	font-family: Arial;
+	font-size: 24px;
+	color: #45161c;
+}
+
+td {
+	background-color: SandyBrown;
+    border-style: inset;
+    border-color: Gold;
+    text-align: justify;
+    font-family: Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	color: #45161c;
+	padding: 15px;
+}
+
+a {
+    background-color: Chocolate;
+	font-size: 20px;
+	font-weight: 900;
+	color: #45161c;
+}
+
+a:hover {
+    background-color: Chocolate;
+	font-size: 20px;
+	font-weight: 900;
+	color: #CC0000;
+}
